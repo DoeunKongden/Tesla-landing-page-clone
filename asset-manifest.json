@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tesla-landing-page-clone/static/css/main.54f8e72a.css",
+    "main.js": "/Tesla-landing-page-clone/static/js/main.ce14a997.js",
+    "index.html": "/Tesla-landing-page-clone/index.html",
+    "main.54f8e72a.css.map": "/Tesla-landing-page-clone/static/css/main.54f8e72a.css.map",
+    "main.ce14a997.js.map": "/Tesla-landing-page-clone/static/js/main.ce14a997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54f8e72a.css",
+    "static/js/main.ce14a997.js"
+  ]
+}
